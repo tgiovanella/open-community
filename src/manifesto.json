@@ -1,0 +1,58 @@
+{
+    "manifesto" : {
+        "conteudo" : [{
+            "valor" : "Gregarismo",
+            "descricao" : ["Na natureza animais gregários são aqueles que organizam-se de maneira fixa ou temporária entre outros de sua espécie como forma de garantir a proteção e o desenvolvimento mútuo. \n",
+            "Nós seres humanos nos organizamos diversas vezes em grupos, dos mais diversos e dinâmicos possível sempre com o objetivo de conquistar recursos e proteção que sozinhos dificilmente conseguiríamos. \n ",
+            "É verdade que o gregarismo é uma característica inata de nossa espécie e, ainda que em redes sociais virtuais, buscamos o pertencimento, acolhimento e integração junto aos demais participantes. Aqueles que entendem esta característica e a desenvolve como uma virtude comumente conquistam benefícios que aqueles que optam por empreender esforços solitariamente raramente conquistam. \n",
+            "Este valor determina a necessidade constante dos membros da comunidade em desenvolver esforços que beneficiem o ecossistema de forma global, de onde este também pode contar com recursos valiosos trazidos e mantidos por outros membros. Além disso, o valor traz a essência do convívio em comunidade, a grandeza da organização e a estratégia adotada por nossa espécie para o seu desenvolvimento e sustentação desde sempre.\n"]
+            
+        },
+        {
+            "valor" : "Transparencia",
+            "descricao" : [
+                "A transparência é a base da honestidade, da prestatividade e do compartilhamento em um grupo que objetiva a perenidade e o crescimento uniforme de seus membros. Este valor é fundamental para lembrar os indivíduos envolvidos na comunidade da importância em ser ético e honrado e porque sem este todos os demais valores tornam-se ineficientes.",
+                "O valor da transparência também prega aos envolvidos, estando em situação de condução e liderança de um esforço ou não, da importância em compreender o envolvimento do todo, a obrigatoriedade de prestar conta de seus atos e a valorizar o convívio harmônico entre os indivíduos."
+
+            ]
+        },
+        {
+            "valor" : "Responsabilidade",
+            "descricao" : [
+                "Ser responsável, dentre outras interpretações diz respeito à obrigação moral do indivíduo responder pelas suas ações e as consequências destas. Em um grupo esta responsabilidade é estendida e compartilhada pelos seus membros onde cada um é responsável pelos atos e efeitos do seu grupo no mesmo tempo que é responsável por protegê-los e privá-los das consequências de seus atos individuais sobre os componentes deste grupo.",
+                "Em uma comunidade cada indivíduo deve compreender que as suas manifestações bem como seu comportamento reflete no todo e por este motivo, como ato de responsabilidade, deve medir as consequências de suas ações antes de efetivamente realizá-las garantindo a perenidade saudável do conjunto."
+
+            ]
+        },
+        {
+            "valor" : "Coragem",
+            "descricao" : [
+                "A coragem é característica inata dos empreendedores, dos desbravadores e de todos aqueles cujas ações impactaram no mundo e ainda refletem no comportamento social. Coragem é uma virtude necessária para empenhar mudanças, agir frente às incertezas, arriscar com consciência e proteger a si e ao seu grupo frente às adversidades. ",
+                "Em uma comunidade aberta, a coragem é fundamental para garantir a confiança mútua onde cada um toma com coragem a essência do grupo e desempenha, ainda que de forma inédita, ações pelo bem da comunidade."
+
+            ]
+        },
+        {
+            "valor" : "Empreendedorismo",
+            "descricao" : [
+                "O empreendedorismo é a disposição do indivíduo para mudar, idealizar, coordenar e realizar projetos mesmo de frente aos riscos que este empenho propõe. Atitudes empreendedoras movimentam o grupo, propõe melhoria, inovação e disrupção.",
+                "Um empreendedor observa o seu ambiente, se inquieta, não se acomoda e constantemente investiga meios de tornar a sua rotina mais produtiva, enriquecedora e motivadora. O comportamento empreendedor é fundamental para a perenidade do grupo pois garante uma visão atualizada, relevante e alinhada aos interesses da comunidade que este grupo atende."
+
+            ]
+        },
+        {
+            "valor" : "Liberdade",
+            "descricao" : [
+                "A liberdade é pilar fundamental de uma comunidade aberta. Todos os seus membros devem se sentir livres para experimentar, propor, apoiar causas, questionar, inovar e reinventar tudo aquilo que for necessário. A liberdade expressa o sentimento de pleno pertencimento onde todos os membros da comunidade podem e são encorajados a criar e desenvolver.",
+                "A liberdade é um dos princípios que motivam os membros a permanecerem no grupo e paradoxalmente, a liberdade de escolher não pertencer é justamente o que emprega o valor em fazer parte."
+
+            ]
+        },
+        {
+            "valor" : "Genericidade",
+            "descricao" : [
+                "Uma comunidade aberta deve valorizar a pluralidade, deve ser envolvente, colaborativa, multidisciplinar, includente e diversa. A riqueza de uma comunidade está na sua amplitude cultural, de conhecimento, de valores e de experiências. O convívio em um ambiente plural enriquece o indivíduo e o grupo na mesma proporção, fomenta caminhos inéditos para o desenvolvimento e solução de desafios além de fortalecer o ecossistema de forma global."
+            ]
+        }]
+    }
+}
